@@ -1,0 +1,22 @@
+# Entorno virtual
+ambiente/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+
+# Base de datos local
+db.sqlite3
+
+# Archivos de entorno / variables sensibles
+.env
+
+# Archivos estáticos recolectados (si usas collectstatic)
+staticfiles/
+
+# Configuración del editor
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
