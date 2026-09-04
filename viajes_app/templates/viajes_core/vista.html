@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Viajes App - Bienvenida</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(135deg, #0f7c85, #1e3c72);
+            color: white;
+            min-height: 100vh;
+        }
+        .hero {
+            text-align: center;
+            padding: 80px 20px 60px;
+        }
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 10px;
+        }
+        .hero p {
+            font-size: 1.2rem;
+            opacity: 0.9;
+            max-width: 600px;
+            margin: 0 auto 30px;
+        }
+        .btn {
+            display: inline-block;
+            background: #ffb703;
+            color: #1e3c72;
+            padding: 12px 30px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        .destinos {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            padding: 40px 20px 80px;
+        }
+        .card {
+            background: rgba(255, 255, 255, 0.12);
+            backdrop-filter: blur(6px);
+            border-radius: 16px;
+            padding: 25px;
+            width: 220px;
+            text-align: center;
+        }
+        .card .emoji { font-size: 2.5rem; margin-bottom: 10px; }
+        .card h3 { margin-bottom: 8px; }
+        .card p { font-size: 0.9rem; opacity: 0.85; }
+    </style>
+</head>
+<body>
+    <div class="hero">
+        <h1>✈️ Viajes App</h1>
+        <p>Descubre destinos, organiza tus itinerarios y guarda tus viajes favoritos en un solo lugar.</p>
+        <a href="#" class="btn">Explorar destinos</a>
+    </div>
+
+    <div class="destinos">
+        <div class="card">
+            <div class="emoji">🏖️</div>
+            <h3>Costa</h3>
+            <p>Playas y descanso frente al mar</p>
+        </div>
+        <div class="card">
+            <div class="emoji">🏔️</div>
+            <h3>Montaña</h3>
+            <p>Aventura y aire libre</p>
+        </div>
+        <div class="card">
+            <div class="emoji">🏙️</div>
+            <h3>Ciudad</h3>
+            <p>Cultura, historia y gastronomía</p>
+        </div>
+    </div>
+</body>
+</html>
