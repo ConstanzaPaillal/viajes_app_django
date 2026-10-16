@@ -1,0 +1,54 @@
+{% extends "rest_framework/base.html" %}
+
+{% block title %}{% if name %}{{ name }} · {% endif %}Viajes App API{% endblock %}
+
+{% block branding %}
+    <a class="navbar-brand" href="{% url 'bienvenida' %}">✈️ Viajes App <small>· API</small></a>
+{% endblock %}
+
+{% block userlinks %}
+    <li><a href="{% url 'bienvenida' %}">Inicio</a></li>
+    <li><a href="/api/">Endpoints</a></li>
+    <li><a href="{% url 'admin:index' %}">Admin</a></li>
+{% endblock %}
+
+{% block style %}
+    {{ block.super }}
+    <style>
+        body { background: #eef3f6; }
+
+        .navbar {
+            background: linear-gradient(135deg, #0f7c85, #1e3c72);
+            border: 0;
+        }
+        .navbar .navbar-brand,
+        .navbar .nav > li > a { color: #fff; font-weight: 600; }
+        .navbar .navbar-brand small { opacity: 0.8; font-weight: normal; }
+        .navbar .nav > li > a:hover { background: rgba(255, 255, 255, 0.15); color: #fff; }
+
+        .breadcrumb { background: transparent; padding-left: 0; }
+        .breadcrumb a { color: #0f7c85; }
+        .page-header h1, #content h1 { color: #1e3c72; }
+
+        .well, .panel, .prettyprint {
+            border: 0;
+            border-radius: 12px;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.08);
+            background: #fff;
+        }
+
+        .btn-primary, .btn-success {
+            background: #ffb703;
+            border-color: #ffb703;
+            color: #1e3c72;
+            font-weight: bold;
+            border-radius: 20px;
+        }
+        .btn-primary:hover, .btn-success:hover,
+        .btn-primary:focus, .btn-success:focus { background: #f0a500; border-color: #f0a500; color: #1e3c72; }
+        .btn-danger, .btn-warning, .btn-default { border-radius: 20px; }
+
+        .form-control { border-radius: 8px; }
+        .form-control:focus { border-color: #0f7c85; box-shadow: 0 0 0 2px rgba(15, 124, 133, 0.2); }
+    </style>
+{% endblock %}

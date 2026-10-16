@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    {% block titulo %}<title>Viajes App</title>{% endblock %}
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: 'Segoe UI', Arial, sans-serif;
+            background: linear-gradient(135deg, #0f7c85, #1e3c72);
+            color: white;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        nav {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 15px 40px;
+            background: rgba(0, 0, 0, 0.2);
+        }
+        nav .logo { font-size: 1.3rem; font-weight: bold; color: white; text-decoration: none; }
+        nav a { color: white; text-decoration: none; margin-left: 20px; }
+        main { flex: 1; }
+        footer {
+            text-align: center;
+            padding: 20px;
+            font-size: 0.85rem;
+            opacity: 0.8;
+            background: rgba(0, 0, 0, 0.2);
+        }
+        .btn {
+            display: inline-block;
+            background: #ffb703;
+            color: #1e3c72;
+            padding: 12px 30px;
+            border-radius: 30px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        
+    </style>
+    {% block estilos %}{% endblock %}
+</head>
+<body>
+    <nav>
+        <a class="logo" href="{% url 'bienvenida' %}">✈️ Viajes App</a>
+        <div>
+            <a href="{% url 'bienvenida' %}">Inicio</a>
+        </div>
+    </nav>
+
+    <main>
+        {% block contenido %}{% endblock %}
+    </main>
+
+    <footer>
+        Viajes App &copy; 2026 · Proyecto Backend con Django
+    </footer>
+</body>
+</html>
