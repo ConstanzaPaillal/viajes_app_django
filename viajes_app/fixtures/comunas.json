@@ -1,0 +1,518 @@
+[
+  {
+    "model": "viajes_app.comuna",
+    "pk": 1,
+    "fields": {
+      "codigo": "15101",
+      "comuna": "Arica",
+      "provincia": 1,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 2,
+    "fields": {
+      "codigo": "15201",
+      "comuna": "Putre",
+      "provincia": 2,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 3,
+    "fields": {
+      "codigo": "01101",
+      "comuna": "Iquique",
+      "provincia": 3,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 4,
+    "fields": {
+      "codigo": "01405",
+      "comuna": "Pica",
+      "provincia": 4,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 5,
+    "fields": {
+      "codigo": "02101",
+      "comuna": "Antofagasta",
+      "provincia": 5,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 6,
+    "fields": {
+      "codigo": "02201",
+      "comuna": "Calama",
+      "provincia": 6,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 7,
+    "fields": {
+      "codigo": "02203",
+      "comuna": "San Pedro de Atacama",
+      "provincia": 6,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 8,
+    "fields": {
+      "codigo": "03101",
+      "comuna": "Copiapó",
+      "provincia": 7,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 9,
+    "fields": {
+      "codigo": "03102",
+      "comuna": "Caldera",
+      "provincia": 7,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 10,
+    "fields": {
+      "codigo": "04101",
+      "comuna": "La Serena",
+      "provincia": 8,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 11,
+    "fields": {
+      "codigo": "04102",
+      "comuna": "Coquimbo",
+      "provincia": 8,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 12,
+    "fields": {
+      "codigo": "04106",
+      "comuna": "Vicuña",
+      "provincia": 8,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 13,
+    "fields": {
+      "codigo": "04301",
+      "comuna": "Ovalle",
+      "provincia": 9,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 14,
+    "fields": {
+      "codigo": "05101",
+      "comuna": "Valparaíso",
+      "provincia": 10,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 15,
+    "fields": {
+      "codigo": "05109",
+      "comuna": "Viña del Mar",
+      "provincia": 10,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 16,
+    "fields": {
+      "codigo": "05201",
+      "comuna": "Isla de Pascua",
+      "provincia": 11,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 17,
+    "fields": {
+      "codigo": "05301",
+      "comuna": "Los Andes",
+      "provincia": 12,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 18,
+    "fields": {
+      "codigo": "05601",
+      "comuna": "San Antonio",
+      "provincia": 13,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 19,
+    "fields": {
+      "codigo": "05603",
+      "comuna": "Cartagena",
+      "provincia": 13,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 20,
+    "fields": {
+      "codigo": "13101",
+      "comuna": "Santiago",
+      "provincia": 14,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 21,
+    "fields": {
+      "codigo": "13114",
+      "comuna": "Las Condes",
+      "provincia": 14,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 22,
+    "fields": {
+      "codigo": "13123",
+      "comuna": "Providencia",
+      "provincia": 14,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 23,
+    "fields": {
+      "codigo": "13203",
+      "comuna": "San José de Maipo",
+      "provincia": 15,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 24,
+    "fields": {
+      "codigo": "06101",
+      "comuna": "Rancagua",
+      "provincia": 16,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 25,
+    "fields": {
+      "codigo": "06201",
+      "comuna": "Pichilemu",
+      "provincia": 17,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 26,
+    "fields": {
+      "codigo": "06310",
+      "comuna": "Santa Cruz",
+      "provincia": 18,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 27,
+    "fields": {
+      "codigo": "07101",
+      "comuna": "Talca",
+      "provincia": 19,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 28,
+    "fields": {
+      "codigo": "07301",
+      "comuna": "Curicó",
+      "provincia": 20,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 29,
+    "fields": {
+      "codigo": "08101",
+      "comuna": "Concepción",
+      "provincia": 22,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 30,
+    "fields": {
+      "codigo": "08301",
+      "comuna": "Los Ángeles",
+      "provincia": 23,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 31,
+    "fields": {
+      "codigo": "09101",
+      "comuna": "Temuco",
+      "provincia": 24,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 32,
+    "fields": {
+      "codigo": "09115",
+      "comuna": "Pucón",
+      "provincia": 24,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 33,
+    "fields": {
+      "codigo": "09120",
+      "comuna": "Villarrica",
+      "provincia": 24,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 34,
+    "fields": {
+      "codigo": "14101",
+      "comuna": "Valdivia",
+      "provincia": 25,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 35,
+    "fields": {
+      "codigo": "10101",
+      "comuna": "Puerto Montt",
+      "provincia": 26,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 36,
+    "fields": {
+      "codigo": "10109",
+      "comuna": "Puerto Varas",
+      "provincia": 26,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 37,
+    "fields": {
+      "codigo": "10201",
+      "comuna": "Castro",
+      "provincia": 27,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 38,
+    "fields": {
+      "codigo": "10301",
+      "comuna": "Osorno",
+      "provincia": 28,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 39,
+    "fields": {
+      "codigo": "11101",
+      "comuna": "Coyhaique",
+      "provincia": 29,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 40,
+    "fields": {
+      "codigo": "11301",
+      "comuna": "Cochrane",
+      "provincia": 30,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 41,
+    "fields": {
+      "codigo": "12101",
+      "comuna": "Punta Arenas",
+      "provincia": 31,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 42,
+    "fields": {
+      "codigo": "12401",
+      "comuna": "Natales",
+      "provincia": 32,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.comuna",
+    "pk": 43,
+    "fields": {
+      "codigo": "12402",
+      "comuna": "Torres del Paine",
+      "provincia": 32,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  }
+]

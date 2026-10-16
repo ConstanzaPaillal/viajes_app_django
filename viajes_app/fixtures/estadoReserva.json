@@ -1,0 +1,46 @@
+[
+  {
+    "model": "viajes_app.estadoreserva",
+    "pk": 1,
+    "fields": {
+      "estado": "Pendiente",
+      "descripcion": "Reserva creada, a la espera de confirmación.",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.estadoreserva",
+    "pk": 2,
+    "fields": {
+      "estado": "Confirmada",
+      "descripcion": "Reserva confirmada por el sistema.",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.estadoreserva",
+    "pk": 3,
+    "fields": {
+      "estado": "Cancelada",
+      "descripcion": "Reserva anulada por el usuario.",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.estadoreserva",
+    "pk": 4,
+    "fields": {
+      "estado": "Finalizada",
+      "descripcion": "El viaje ya se realizó.",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  }
+]

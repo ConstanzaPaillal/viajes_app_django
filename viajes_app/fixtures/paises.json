@@ -1,0 +1,197 @@
+[
+  {
+    "model": "viajes_app.pais",
+    "pk": 1,
+    "fields": {
+      "nombre": "Chile",
+      "nacionalidad": "Chilena",
+      "iso_2": "CL",
+      "iso_3": "CHL",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.pais",
+    "pk": 2,
+    "fields": {
+      "nombre": "Argentina",
+      "nacionalidad": "Argentina",
+      "iso_2": "AR",
+      "iso_3": "ARG",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.pais",
+    "pk": 3,
+    "fields": {
+      "nombre": "Perú",
+      "nacionalidad": "Peruana",
+      "iso_2": "PE",
+      "iso_3": "PER",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.pais",
+    "pk": 4,
+    "fields": {
+      "nombre": "Bolivia",
+      "nacionalidad": "Boliviana",
+      "iso_2": "BO",
+      "iso_3": "BOL",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.pais",
+    "pk": 5,
+    "fields": {
+      "nombre": "Brasil",
+      "nacionalidad": "Brasileña",
+      "iso_2": "BR",
+      "iso_3": "BRA",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.pais",
+    "pk": 6,
+    "fields": {
+      "nombre": "Uruguay",
+      "nacionalidad": "Uruguaya",
+      "iso_2": "UY",
+      "iso_3": "URY",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.pais",
+    "pk": 7,
+    "fields": {
+      "nombre": "Colombia",
+      "nacionalidad": "Colombiana",
+      "iso_2": "CO",
+      "iso_3": "COL",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.pais",
+    "pk": 8,
+    "fields": {
+      "nombre": "Ecuador",
+      "nacionalidad": "Ecuatoriana",
+      "iso_2": "EC",
+      "iso_3": "ECU",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.pais",
+    "pk": 9,
+    "fields": {
+      "nombre": "Paraguay",
+      "nacionalidad": "Paraguaya",
+      "iso_2": "PY",
+      "iso_3": "PRY",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.pais",
+    "pk": 10,
+    "fields": {
+      "nombre": "México",
+      "nacionalidad": "Mexicana",
+      "iso_2": "MX",
+      "iso_3": "MEX",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.pais",
+    "pk": 11,
+    "fields": {
+      "nombre": "Estados Unidos",
+      "nacionalidad": "Estadounidense",
+      "iso_2": "US",
+      "iso_3": "USA",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.pais",
+    "pk": 12,
+    "fields": {
+      "nombre": "España",
+      "nacionalidad": "Española",
+      "iso_2": "ES",
+      "iso_3": "ESP",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.pais",
+    "pk": 13,
+    "fields": {
+      "nombre": "Francia",
+      "nacionalidad": "Francesa",
+      "iso_2": "FR",
+      "iso_3": "FRA",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.pais",
+    "pk": 14,
+    "fields": {
+      "nombre": "Italia",
+      "nacionalidad": "Italiana",
+      "iso_2": "IT",
+      "iso_3": "ITA",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.pais",
+    "pk": 15,
+    "fields": {
+      "nombre": "Alemania",
+      "nacionalidad": "Alemana",
+      "iso_2": "DE",
+      "iso_3": "DEU",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  }
+]

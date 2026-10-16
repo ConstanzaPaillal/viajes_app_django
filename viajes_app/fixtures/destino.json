@@ -1,0 +1,302 @@
+[
+  {
+    "model": "viajes_app.destino",
+    "pk": 1,
+    "fields": {
+      "nombre": "Viña del Mar y Valparaíso",
+      "descripcion": "Playas, cerros patrimoniales y vida porteña en la costa central.",
+      "tipo_destino": 1,
+      "pais": 1,
+      "direccion": 2,
+      "precio_referencial": "85000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 2,
+    "fields": {
+      "nombre": "La Serena",
+      "descripcion": "Playas extensas, centro histórico y puerta de entrada al Valle del Elqui.",
+      "tipo_destino": 1,
+      "pais": 1,
+      "direccion": 3,
+      "precio_referencial": "95000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 3,
+    "fields": {
+      "nombre": "Santiago Centro",
+      "descripcion": "Historia, museos, parques y gastronomía en la capital.",
+      "tipo_destino": 3,
+      "pais": 1,
+      "direccion": 4,
+      "precio_referencial": "70000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 4,
+    "fields": {
+      "nombre": "Cajón del Maipo",
+      "descripcion": "Trekking, termas y paisajes de cordillera a pasos de Santiago.",
+      "tipo_destino": 2,
+      "pais": 1,
+      "direccion": 5,
+      "precio_referencial": "60000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 5,
+    "fields": {
+      "nombre": "San Pedro de Atacama",
+      "descripcion": "Salares, géiseres y uno de los cielos más claros del mundo.",
+      "tipo_destino": 4,
+      "pais": 1,
+      "direccion": 6,
+      "precio_referencial": "180000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 6,
+    "fields": {
+      "nombre": "Pucón",
+      "descripcion": "Volcán Villarrica, termas, lago y turismo aventura.",
+      "tipo_destino": 5,
+      "pais": 1,
+      "direccion": 7,
+      "precio_referencial": "130000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 7,
+    "fields": {
+      "nombre": "Puerto Varas",
+      "descripcion": "Lago Llanquihue, volcanes Osorno y Calbuco y herencia alemana.",
+      "tipo_destino": 5,
+      "pais": 1,
+      "direccion": 8,
+      "precio_referencial": "120000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 8,
+    "fields": {
+      "nombre": "Torres del Paine",
+      "descripcion": "Parque nacional con glaciares, lagos y las icónicas torres de granito.",
+      "tipo_destino": 2,
+      "pais": 1,
+      "direccion": 9,
+      "precio_referencial": "350000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 9,
+    "fields": {
+      "nombre": "Isla de Pascua",
+      "descripcion": "Moáis, cultura rapanui y paisajes volcánicos en medio del Pacífico.",
+      "tipo_destino": 7,
+      "pais": 1,
+      "direccion": 10,
+      "precio_referencial": "600000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 10,
+    "fields": {
+      "nombre": "Chiloé",
+      "descripcion": "Iglesias de madera patrimonio de la humanidad, palafitos y gastronomía local.",
+      "tipo_destino": 7,
+      "pais": 1,
+      "direccion": 11,
+      "precio_referencial": "140000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 11,
+    "fields": {
+      "nombre": "Valle del Elqui",
+      "descripcion": "Viñedos, pisco, observatorios astronómicos y pueblos con encanto.",
+      "tipo_destino": 6,
+      "pais": 1,
+      "direccion": 12,
+      "precio_referencial": "75000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 12,
+    "fields": {
+      "nombre": "Pichilemu",
+      "descripcion": "Capital del surf en Chile, con olas para todos los niveles.",
+      "tipo_destino": 1,
+      "pais": 1,
+      "direccion": 13,
+      "precio_referencial": "80000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 13,
+    "fields": {
+      "nombre": "Iquique",
+      "descripcion": "Playas del norte, historia salitrera y deportes de aventura.",
+      "tipo_destino": 1,
+      "pais": 1,
+      "direccion": 14,
+      "precio_referencial": "110000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 14,
+    "fields": {
+      "nombre": "Valle de Colchagua",
+      "descripcion": "Ruta del vino, bodegas y paisajes de campo.",
+      "tipo_destino": 6,
+      "pais": 1,
+      "direccion": 15,
+      "precio_referencial": "90000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 15,
+    "fields": {
+      "nombre": "Mendoza",
+      "descripcion": "Viñedos al pie de la cordillera de los Andes.",
+      "tipo_destino": 6,
+      "pais": 2,
+      "direccion": null,
+      "precio_referencial": "150000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 16,
+    "fields": {
+      "nombre": "Bariloche",
+      "descripcion": "Lagos, montañas y chocolate en la Patagonia argentina.",
+      "tipo_destino": 5,
+      "pais": 2,
+      "direccion": null,
+      "precio_referencial": "220000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 17,
+    "fields": {
+      "nombre": "Cusco y Machu Picchu",
+      "descripcion": "Capital del antiguo imperio inca y su ciudadela más famosa.",
+      "tipo_destino": 7,
+      "pais": 3,
+      "direccion": null,
+      "precio_referencial": "400000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 18,
+    "fields": {
+      "nombre": "Río de Janeiro",
+      "descripcion": "Playas icónicas, el Cristo Redentor y vida cultural intensa.",
+      "tipo_destino": 1,
+      "pais": 5,
+      "direccion": null,
+      "precio_referencial": "450000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 19,
+    "fields": {
+      "nombre": "Punta del Este",
+      "descripcion": "Balnearios, puertos y vida nocturna en la costa uruguaya.",
+      "tipo_destino": 1,
+      "pais": 6,
+      "direccion": null,
+      "precio_referencial": "380000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.destino",
+    "pk": 20,
+    "fields": {
+      "nombre": "Cartagena de Indias",
+      "descripcion": "Ciudad amurallada colonial a orillas del Caribe.",
+      "tipo_destino": 7,
+      "pais": 7,
+      "direccion": null,
+      "precio_referencial": "420000.00",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  }
+]

@@ -1,0 +1,119 @@
+[
+  {
+    "model": "viajes_app.favorito",
+    "pk": 1,
+    "fields": {
+      "usuario": 1,
+      "destino": 2,
+      "agregado_en": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.favorito",
+    "pk": 2,
+    "fields": {
+      "usuario": 1,
+      "destino": 16,
+      "agregado_en": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.favorito",
+    "pk": 3,
+    "fields": {
+      "usuario": 2,
+      "destino": 3,
+      "agregado_en": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.favorito",
+    "pk": 4,
+    "fields": {
+      "usuario": 3,
+      "destino": 7,
+      "agregado_en": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.favorito",
+    "pk": 5,
+    "fields": {
+      "usuario": 3,
+      "destino": 8,
+      "agregado_en": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.favorito",
+    "pk": 6,
+    "fields": {
+      "usuario": 4,
+      "destino": 6,
+      "agregado_en": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.favorito",
+    "pk": 7,
+    "fields": {
+      "usuario": 5,
+      "destino": 1,
+      "agregado_en": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.favorito",
+    "pk": 8,
+    "fields": {
+      "usuario": 6,
+      "destino": 5,
+      "agregado_en": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.favorito",
+    "pk": 9,
+    "fields": {
+      "usuario": 7,
+      "destino": 12,
+      "agregado_en": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.favorito",
+    "pk": 10,
+    "fields": {
+      "usuario": 8,
+      "destino": 9,
+      "agregado_en": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.favorito",
+    "pk": 11,
+    "fields": {
+      "usuario": 9,
+      "destino": 10,
+      "agregado_en": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.favorito",
+    "pk": 12,
+    "fields": {
+      "usuario": 10,
+      "destino": 8,
+      "agregado_en": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.favorito",
+    "pk": 13,
+    "fields": {
+      "usuario": 2,
+      "destino": 13,
+      "agregado_en": "2026-10-14T00:00:00Z"
+    }
+  }
+]

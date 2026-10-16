@@ -1,0 +1,172 @@
+[
+  {
+    "model": "viajes_app.usuario",
+    "pk": 1,
+    "fields": {
+      "nombre": "Ana Pérez Soto",
+      "rut": "11.111.111-1",
+      "correo": "ana.perez@ejemplo.cl",
+      "telefono": "+56911111111",
+      "nacionalidad": 1,
+      "fecha_nacimiento": "1998-05-12",
+      "contrasenia": "clave-ejemplo-1",
+      "direccion": 16,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.usuario",
+    "pk": 2,
+    "fields": {
+      "nombre": "Luis Rojas Díaz",
+      "rut": "22.222.222-2",
+      "correo": "luis.rojas@ejemplo.cl",
+      "telefono": "+56922222222",
+      "nacionalidad": 1,
+      "fecha_nacimiento": "1995-09-30",
+      "contrasenia": "clave-ejemplo-2",
+      "direccion": 17,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.usuario",
+    "pk": 3,
+    "fields": {
+      "nombre": "María Gómez Fernández",
+      "rut": "33.333.333-3",
+      "correo": "maria.gomez@ejemplo.com.ar",
+      "telefono": null,
+      "nacionalidad": 2,
+      "fecha_nacimiento": "2000-01-20",
+      "contrasenia": "clave-ejemplo-3",
+      "direccion": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.usuario",
+    "pk": 4,
+    "fields": {
+      "nombre": "Carlos Muñoz Vega",
+      "rut": "44.444.444-4",
+      "correo": "carlos.munoz@ejemplo.cl",
+      "telefono": "+56944444444",
+      "nacionalidad": 1,
+      "fecha_nacimiento": "1988-11-03",
+      "contrasenia": "clave-ejemplo-4",
+      "direccion": 18,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.usuario",
+    "pk": 5,
+    "fields": {
+      "nombre": "Camila Fuentes Araya",
+      "rut": "55.555.555-5",
+      "correo": "camila.fuentes@ejemplo.cl",
+      "telefono": "+56955555555",
+      "nacionalidad": 1,
+      "fecha_nacimiento": "2001-07-25",
+      "contrasenia": "clave-ejemplo-5",
+      "direccion": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.usuario",
+    "pk": 6,
+    "fields": {
+      "nombre": "Javier Soto Paredes",
+      "rut": "66.666.666-6",
+      "correo": "javier.soto@ejemplo.cl",
+      "telefono": "+56966666666",
+      "nacionalidad": 1,
+      "fecha_nacimiento": "1992-03-14",
+      "contrasenia": "clave-ejemplo-6",
+      "direccion": 19,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.usuario",
+    "pk": 7,
+    "fields": {
+      "nombre": "Valentina Castro Lagos",
+      "rut": "77.777.777-7",
+      "correo": "valentina.castro@ejemplo.cl",
+      "telefono": "+56977777777",
+      "nacionalidad": 1,
+      "fecha_nacimiento": "1999-12-01",
+      "contrasenia": "clave-ejemplo-7",
+      "direccion": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.usuario",
+    "pk": 8,
+    "fields": {
+      "nombre": "Diego Herrera Mora",
+      "rut": "88.888.888-8",
+      "correo": "diego.herrera@ejemplo.pe",
+      "telefono": null,
+      "nacionalidad": 3,
+      "fecha_nacimiento": "1990-06-18",
+      "contrasenia": "clave-ejemplo-8",
+      "direccion": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.usuario",
+    "pk": 9,
+    "fields": {
+      "nombre": "Sofía Contreras Peña",
+      "rut": "99.999.999-9",
+      "correo": "sofia.contreras@ejemplo.cl",
+      "telefono": "+56999999999",
+      "nacionalidad": 1,
+      "fecha_nacimiento": "1996-08-09",
+      "contrasenia": "clave-ejemplo-9",
+      "direccion": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.usuario",
+    "pk": 10,
+    "fields": {
+      "nombre": "Andrés Vargas Ríos",
+      "rut": "10.101.010-1",
+      "correo": "andres.vargas@ejemplo.cl",
+      "telefono": "+56910101010",
+      "nacionalidad": 1,
+      "fecha_nacimiento": "1985-02-27",
+      "contrasenia": "clave-ejemplo-10",
+      "direccion": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  }
+]

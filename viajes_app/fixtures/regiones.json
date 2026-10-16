@@ -1,0 +1,178 @@
+[
+  {
+    "model": "viajes_app.region",
+    "pk": 1,
+    "fields": {
+      "codigo": "15",
+      "region": "Arica y Parinacota",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.region",
+    "pk": 2,
+    "fields": {
+      "codigo": "01",
+      "region": "Tarapacá",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.region",
+    "pk": 3,
+    "fields": {
+      "codigo": "02",
+      "region": "Antofagasta",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.region",
+    "pk": 4,
+    "fields": {
+      "codigo": "03",
+      "region": "Atacama",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.region",
+    "pk": 5,
+    "fields": {
+      "codigo": "04",
+      "region": "Coquimbo",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.region",
+    "pk": 6,
+    "fields": {
+      "codigo": "05",
+      "region": "Valparaíso",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.region",
+    "pk": 7,
+    "fields": {
+      "codigo": "13",
+      "region": "Metropolitana de Santiago",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.region",
+    "pk": 8,
+    "fields": {
+      "codigo": "06",
+      "region": "O'Higgins",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.region",
+    "pk": 9,
+    "fields": {
+      "codigo": "07",
+      "region": "Maule",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.region",
+    "pk": 10,
+    "fields": {
+      "codigo": "16",
+      "region": "Ñuble",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.region",
+    "pk": 11,
+    "fields": {
+      "codigo": "08",
+      "region": "Biobío",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.region",
+    "pk": 12,
+    "fields": {
+      "codigo": "09",
+      "region": "La Araucanía",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.region",
+    "pk": 13,
+    "fields": {
+      "codigo": "14",
+      "region": "Los Ríos",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.region",
+    "pk": 14,
+    "fields": {
+      "codigo": "10",
+      "region": "Los Lagos",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.region",
+    "pk": 15,
+    "fields": {
+      "codigo": "11",
+      "region": "Aysén",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.region",
+    "pk": 16,
+    "fields": {
+      "codigo": "12",
+      "region": "Magallanes y Antártica Chilena",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "model": "viajes_app.reserva",
+    "pk": 1,
+    "fields": {
+      "usuario": 1,
+      "destino": 1,
+      "estado": 2,
+      "fecha_entrada": "2027-01-10",
+      "fecha_salida": "2027-01-13",
+      "fecha_reserva": "2026-10-01T10:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.reserva",
+    "pk": 2,
+    "fields": {
+      "usuario": 2,
+      "destino": 4,
+      "estado": 1,
+      "fecha_entrada": "2026-11-21",
+      "fecha_salida": "2026-11-22",
+      "fecha_reserva": "2026-10-10T09:30:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.reserva",
+    "pk": 3,
+    "fields": {
+      "usuario": 3,
+      "destino": 15,
+      "estado": 3,
+      "fecha_entrada": "2027-02-05",
+      "fecha_salida": "2027-02-10",
+      "fecha_reserva": "2026-09-20T15:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.reserva",
+    "pk": 4,
+    "fields": {
+      "usuario": 4,
+      "destino": 6,
+      "estado": 2,
+      "fecha_entrada": "2027-02-01",
+      "fecha_salida": "2027-02-04",
+      "fecha_reserva": "2026-10-05T12:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.reserva",
+    "pk": 5,
+    "fields": {
+      "usuario": 4,
+      "destino": 10,
+      "estado": 1,
+      "fecha_entrada": "2027-02-09",
+      "fecha_salida": "2027-02-12",
+      "fecha_reserva": "2026-10-05T12:10:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.reserva",
+    "pk": 6,
+    "fields": {
+      "usuario": 6,
+      "destino": 13,
+      "estado": 2,
+      "fecha_entrada": "2026-12-05",
+      "fecha_salida": "2026-12-08",
+      "fecha_reserva": "2026-09-28T18:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.reserva",
+    "pk": 7,
+    "fields": {
+      "usuario": 6,
+      "destino": 5,
+      "estado": 1,
+      "fecha_entrada": "2026-12-08",
+      "fecha_salida": "2026-12-12",
+      "fecha_reserva": "2026-09-28T18:05:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.reserva",
+    "pk": 8,
+    "fields": {
+      "usuario": 9,
+      "destino": 10,
+      "estado": 2,
+      "fecha_entrada": "2027-09-17",
+      "fecha_salida": "2027-09-20",
+      "fecha_reserva": "2026-10-12T11:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.reserva",
+    "pk": 9,
+    "fields": {
+      "usuario": 5,
+      "destino": 3,
+      "estado": 4,
+      "fecha_entrada": "2026-08-10",
+      "fecha_salida": "2026-08-12",
+      "fecha_reserva": "2026-07-20T08:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.reserva",
+    "pk": 10,
+    "fields": {
+      "usuario": 7,
+      "destino": 2,
+      "estado": 4,
+      "fecha_entrada": "2026-07-15",
+      "fecha_salida": "2026-07-20",
+      "fecha_reserva": "2026-06-01T14:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.reserva",
+    "pk": 11,
+    "fields": {
+      "usuario": 8,
+      "destino": 17,
+      "estado": 3,
+      "fecha_entrada": "2026-12-20",
+      "fecha_salida": "2026-12-28",
+      "fecha_reserva": "2026-09-15T16:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.reserva",
+    "pk": 12,
+    "fields": {
+      "usuario": 10,
+      "destino": 9,
+      "estado": 2,
+      "fecha_entrada": "2027-01-25",
+      "fecha_salida": "2027-01-31",
+      "fecha_reserva": "2026-10-08T13:00:00Z"
+    }
+  }
+]

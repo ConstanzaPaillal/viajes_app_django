@@ -1,0 +1,249 @@
+[
+  {
+    "model": "viajes_app.direccion",
+    "pk": 1,
+    "fields": {
+      "comuna": 14,
+      "calle": "Plaza Sotomayor",
+      "numero": "s/n",
+      "departamento": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 2,
+    "fields": {
+      "comuna": 15,
+      "calle": "Av. San Martín",
+      "numero": "199",
+      "departamento": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 3,
+    "fields": {
+      "comuna": 10,
+      "calle": "Av. del Mar",
+      "numero": "1200",
+      "departamento": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 4,
+    "fields": {
+      "comuna": 20,
+      "calle": "Plaza de Armas",
+      "numero": "s/n",
+      "departamento": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 5,
+    "fields": {
+      "comuna": 23,
+      "calle": "Camino al Volcán",
+      "numero": "s/n",
+      "departamento": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 6,
+    "fields": {
+      "comuna": 7,
+      "calle": "Caracoles",
+      "numero": "s/n",
+      "departamento": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 7,
+    "fields": {
+      "comuna": 32,
+      "calle": "Av. Bernardo O'Higgins",
+      "numero": "500",
+      "departamento": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 8,
+    "fields": {
+      "comuna": 36,
+      "calle": "Av. Costanera",
+      "numero": "s/n",
+      "departamento": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 9,
+    "fields": {
+      "comuna": 43,
+      "calle": "Ruta Y-150",
+      "numero": "s/n",
+      "departamento": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 10,
+    "fields": {
+      "comuna": 16,
+      "calle": "Atamu Tekena",
+      "numero": "s/n",
+      "departamento": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 11,
+    "fields": {
+      "comuna": 37,
+      "calle": "Plaza de Armas",
+      "numero": "s/n",
+      "departamento": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 12,
+    "fields": {
+      "comuna": 12,
+      "calle": "Gabriela Mistral",
+      "numero": "s/n",
+      "departamento": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 13,
+    "fields": {
+      "comuna": 25,
+      "calle": "Av. Ortúzar",
+      "numero": "s/n",
+      "departamento": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 14,
+    "fields": {
+      "comuna": 3,
+      "calle": "Av. Arturo Prat",
+      "numero": "s/n",
+      "departamento": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 15,
+    "fields": {
+      "comuna": 26,
+      "calle": "Plaza de Armas",
+      "numero": "s/n",
+      "departamento": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 16,
+    "fields": {
+      "comuna": 22,
+      "calle": "Av. Providencia",
+      "numero": "2222",
+      "departamento": "45",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 17,
+    "fields": {
+      "comuna": 21,
+      "calle": "Av. Apoquindo",
+      "numero": "3000",
+      "departamento": "12",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 18,
+    "fields": {
+      "comuna": 31,
+      "calle": "Av. Alemania",
+      "numero": "671",
+      "departamento": null,
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  },
+  {
+    "model": "viajes_app.direccion",
+    "pk": 19,
+    "fields": {
+      "comuna": 29,
+      "calle": "Barros Arana",
+      "numero": "1000",
+      "departamento": "8",
+      "habilitado": true,
+      "created_at": "2026-10-14T00:00:00Z",
+      "updated_at": "2026-10-14T00:00:00Z"
+    }
+  }
+]
